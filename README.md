@@ -1,7 +1,17 @@
 <h1 align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   <img src="https://i.postimg.cc/nLxMfDg8/clash.png" alt="Clash" width="200">
   <br>
-  ClashX Setup Tutorial
+  <br>
+  <br>
+  <br>
+  <br>
   <br>
 </h1>
 
